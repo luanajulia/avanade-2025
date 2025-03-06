@@ -1,5 +1,6 @@
 # avanade - 2025
-
+# Java RestFul API Criada para o Bootcamp Dio
+```
 classDiagram
     class Usuario {
         - String name
@@ -11,3 +12,4 @@ classDiagram
         - String description
     }
     Usuario --> Feature
+```
